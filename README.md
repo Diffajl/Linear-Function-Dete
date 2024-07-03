@@ -1,6 +1,6 @@
-# Linear Function Detection
+# Linear Function Prediction
 
-A web application for detecting linear functions using a simple neural network.
+A web application for prediction linear functions using a simple neural network.
 
 ## Project Description
 
