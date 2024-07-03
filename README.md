@@ -19,15 +19,19 @@ This application allows you to predict the outcome of a specified linear functio
     ```bash
     git clone https://github.com/username/linear-function-detection.git
     ```
-2. Install the required dependencies.
+2. Navigate to the project directory.
+    ```bash
+    cd linear-function-detection
+    ```
+3. Install the required dependencies.
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the Streamlit application.
+4. Run the Streamlit application.
     ```bash
     streamlit run app.py
     ```
-4. Open the application in your browser and use the interface to input the linear function parameters and values you want to predict.
+5. Open the application in your browser and use the interface to input the linear function parameters and values you want to predict.
 
 ## Directory Structure
 
